@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistoy&theme=kakao)](https://dev-wnstjd.tistory.com)
   
 ## RECENT POST
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-wnstjd&postId=[백준] (Python) 10610번_30&theme=vue)](https://dev-wnstjd.tistory.com)
+
 ## 📚 Baekjoon 📚
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstjd9701)](https://solved.ac/wnstjd9701)
