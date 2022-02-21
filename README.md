@@ -1,5 +1,5 @@
 <div align='center' font-size=10px>
-  <h5>
+  <h4>
 - 👋 Hi, I’m Yun JunSung <br>
 - 👀 I’m interested in Programming <br>
 - 🌱 I’m currently learning Python,HTML,CSS,JavaScript,Java... <br>
@@ -10,7 +10,7 @@
 wnstjd9701/wnstjd9701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  </h5>
+  </h4>
 </div>
 <div align='center'>
 
@@ -19,6 +19,9 @@ You can click the Preview link to take a look at your changes.
 ## TISTORY BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-wnstjd&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
   
+## RECENT POST
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
 ## 📚 Baekjoon 📚
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstjd9701)](https://solved.ac/wnstjd9701)
