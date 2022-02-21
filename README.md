@@ -29,7 +29,7 @@ Coding Test </a>![GitHub language count](https://img.shields.io/github/languages
 <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=html5&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
