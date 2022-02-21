@@ -1,5 +1,5 @@
 <div align='center' font-size=10px>
-  <h3>
+  <h5>
 - 👋 Hi, I’m Yun JunSung <br>
 - 👀 I’m interested in Programming <br>
 - 🌱 I’m currently learning Python,HTML,CSS,JavaScript,Java... <br>
@@ -10,17 +10,20 @@
 wnstjd9701/wnstjd9701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  </h3>
+  </h5>
 </div>
 <div align='center'>
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnstjd9701&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wnstjd9701)
 
-## Baekjoon 
+## TISTORY BLOG
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-wnstjd&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
+  
+## 📚 Baekjoon 📚
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstjd9701)](https://solved.ac/wnstjd9701)
 
-## Repository Language
+## ◾ Repository Language
 Coding Test </a>![GitHub language count](https://img.shields.io/github/languages/count/wnstjd9701/CodingTest)
 
 ## 🛠 TECH STACK 🛠 
