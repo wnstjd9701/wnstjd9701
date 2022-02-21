@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' font-size=10px>
   <h3>
 - 👋 Hi, I’m Yun JunSung <br>
 - 👀 I’m interested in Programming <br>
