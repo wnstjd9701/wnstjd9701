@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub language count](https://img.shields.io/github/languages/count/wnstjd9701/CodingTest)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?wnstjd9701=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstjd9701)](https://github.com/wnstjd9701/github-readme-stats)
