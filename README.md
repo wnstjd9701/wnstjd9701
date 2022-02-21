@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 TECH STACK 🛠 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ![GitHub language count](https://img.shields.io/github/languages/count/wnstjd9701/CodingTest)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstjd9701&layout=compact)](https://github.com/wnstjd9701/github-readme-stats)
 
