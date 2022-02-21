@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 TECH STACK 🛠 ##
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+![GitHub language count](https://img.shields.io/github/languages/count/wnstjd9701/CodingTest)
 
