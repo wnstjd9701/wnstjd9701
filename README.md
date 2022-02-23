@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnstjd9701&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wnstjd9701)
 
 ## TISTORY BLOG
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s 블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
   
 ## RECENT POST
 
