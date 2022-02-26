@@ -38,9 +38,9 @@ Coding Test </a>![GitHub language count](https://img.shields.io/github/languages
 <img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/amazonAWS-232F3E?style=plastic&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/nodeJs-339933?style=plastic&logo=nodejs&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=nodejs&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstjd9701&layout=compact)](https://github.com/wnstjd9701/github-readme-stats)
 
