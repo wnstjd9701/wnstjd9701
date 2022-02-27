@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
   
 ## RECENT POST
-
+tistory blog
 ## 📚 Baekjoon 📚
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstjd9701)](https://solved.ac/wnstjd9701)
