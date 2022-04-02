@@ -1,6 +1,6 @@
 <div align='center' font-size=10px>
   <h4>
-- 👋 Hi, I’m Yun JunSung <br>
+- 👋 Hi, I’m Yun JunSung !!<br>
 - 🌱 I’m currently learning NodeJS, Python.. <br>
 - 📫 How to contact me ... wnstjd9701@naver.com / wnstjd9701@gmail.com<br>
 - VANILLA JS Web site -> https://ducksnow.shop/Vanilla-JS/ <br>
