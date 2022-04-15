@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Yun JunSung !!<br>
 - 🌱 I’m currently learning NodeJS, Python.. <br>
 - 📫 How to contact me ... wnstjd9701@naver.com / wnstjd9701@gmail.com<br>
-- VANILLA JS Web site.. -> https://ducksnow.shop/Vanilla-JS/ <br>
+- VANILLA JS Web site... -> https://ducksnow.shop/Vanilla-JS/ <br>
 <!---
 wnstjd9701/wnstjd9701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
