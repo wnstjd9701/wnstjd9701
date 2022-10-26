@@ -1,4 +1,4 @@
-<div font-size=10px>
+<div align='center' font-size=10px>
   <h4>
 - 👋 Hi, I’m Yun JunSung...!!!<br>
 - 🌱 I’m currently learning NodeJS, Python... <br>
