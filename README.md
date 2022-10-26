@@ -1,4 +1,4 @@
-<div align='center' font-size=10px>
+<div font-size=10px>
   <h4>
 - 👋 Hi, I’m Yun JunSung...!!!<br>
 - 🌱 I’m currently learning NodeJS, Python... <br>
@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
   </h4>
 </div>
-<div align='center'>
 
+<div align='center'>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnstjd9701&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wnstjd9701)
 
 ## TISTORY BLOG
