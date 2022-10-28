@@ -18,11 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
 
-## 📚 Baekjoon 📚
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstjd9701)](https://solved.ac/wnstjd9701)
-
 ## 🛠 TECH STACK 🛠
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
@@ -37,9 +32,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/amazonAWS-232F3E?style=plastic&logo=amazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=node.js&logoColor=white">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstjd9701&layout=compact)](https://github.com/wnstjd9701/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstjd9701)](https://github.com/wnstjd9701/github-readme-stats)
 
 </div>
