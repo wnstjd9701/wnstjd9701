@@ -1,36 +1,30 @@
-<div font-size=10px>
+<hr>
+<div class='profile' font-size=10px>
+  <h2 id='name'> 😊 YUN JUN SUNG <h2>
   <h4>
 - 👋 Hi, I’m Yun JunSung...!!!<br>
 - 🌱 I’m currently learning NodeJS, Python... <br>
 - 📫 How to contact me ... wnstjd9701@naver.com / wnstjd9701@gmail.com<br>
 - VANILLA JS Web site... -> https://ducksnow.shop/Vanilla-JS/ <br>
-<!---
-wnstjd9701/wnstjd9701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
   </h4>
 </div>
-<div align='center'>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnstjd9701&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/wnstjd9701)
-
-## TISTORY BLOG
+<hr>
+<div class='blog' align='center'>
+  <h2> TISTORY BLOG </h2>
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
 
-## 🛠 TECH STACK 🛠
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=plastic&logo=html5&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/amazonAWS-232F3E?style=plastic&logo=amazonAWS&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=node.js&logoColor=white">
-
+</div>
+<hr>
+<div class='tech-stack' align='center'>
+  <h2> 📚 TECH STACK 🛠 </h2>
+  <span>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp
+  </span>
 </div>
