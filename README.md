@@ -1,6 +1,6 @@
 <hr>
 <div class='profile' font-size=10px>
-  <h2 id='name'> 😊 YUN JUN SUNG <h2>
+  <h2 id='name'> 😊 YUN JUN SUNG </h2>
   <h4>
 - 👋 Hi, I’m Yun JunSung...!!!<br>
 - 🌱 I’m currently learning NodeJS, Python... <br>
