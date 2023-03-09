@@ -1,14 +1,3 @@
-<hr>
-<div class='profile' font-size=10px>
-  <h2 id='name'> 😊 YUN JUN SUNG </h2>
-  <h4>
-- 👋 Hi, I’m Yun JunSung...!!!<br>
-- 🌱 I’m currently learning NodeJS, Python... <br>
-- 📫 How to contact me ... wnstjd9701@naver.com / wnstjd9701@gmail.com<br>
-- VANILLA JS Web site... -> https://ducksnow.shop/Vanilla-JS/ <br>
-  </h4>
-</div>
-<hr>
 <div class='blog' align='center'>
   <h2> TISTORY BLOG </h2>
 
