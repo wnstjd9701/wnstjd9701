@@ -19,12 +19,12 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
+ - [4/15 - [백준] [Python] [Gold4] 9663번_N-Queen](https://dev-wnstjd.tistory.com/382)
+ - [4/14 - [백준] [Python] [Gold4] 5052번_전화번호 목록](https://dev-wnstjd.tistory.com/381)
+ - [4/14 - ⬛ [Programmers] [Python] [2018 KAKAO BLIND RECRUITMENT] [Level2] [3차] 압축](https://dev-wnstjd.tistory.com/380)
  - [4/14 - [Github] 블로그 최신글 Github README에 올리기](https://dev-wnstjd.tistory.com/378)
  - [4/13 - ⬛ [Programmers] [Python] [Level1] 추억 점수](https://dev-wnstjd.tistory.com/377)
  - [4/12 - [백준] [Python] [Silver4] 1302번_베스트셀러](https://dev-wnstjd.tistory.com/376)
- - [4/12 - ⬛ [Programmers] [Python] [Level3] 야근 지수](https://dev-wnstjd.tistory.com/375)
- - [4/12 - ⬛ [Programmers] [Python] [2022 KAKAO BLIND RECRUITMENT] [Level2] K진수에서 소수 개수 구하기](https://dev-wnstjd.tistory.com/374)
- - [4/11 - ⬛ [Programmers] [Python] [Level2] 전화번호 목록](https://dev-wnstjd.tistory.com/373)
 
 </div>
 </div>
