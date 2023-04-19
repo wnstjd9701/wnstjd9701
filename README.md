@@ -19,12 +19,12 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
+ - [4/19 - [백준] [Python] [Silver1] 1991번_트리 순회](https://dev-wnstjd.tistory.com/390)
+ - [4/18 - [Java] 라이브러리 / 모듈](https://dev-wnstjd.tistory.com/389)
+ - [4/18 - [백준] [Python] [Silver3] 15654번_N과M(5)](https://dev-wnstjd.tistory.com/388)
  - [4/17 - ⬛ [Programmers] [Python] [Level2] 카드 뭉치](https://dev-wnstjd.tistory.com/387)
  - [4/17 - ⬛ [Programmers] [Python] [Level2] 더 맵게](https://dev-wnstjd.tistory.com/386)
  - [4/17 - ⬛ [Programmers] [Python] [2018 KAKAO BLIND RECRUITMENT] [Level2] [3차] n진수 게임](https://dev-wnstjd.tistory.com/385)
- - [4/17 - [백준] [Python] [Gold3] 2206번_벽 부수고 이동하기](https://dev-wnstjd.tistory.com/384)
- - [4/16 - [백준] [Python] [Gold4] 1753번_최단경로](https://dev-wnstjd.tistory.com/383)
- - [4/15 - [백준] [Python] [Gold4] 9663번_N-Queen](https://dev-wnstjd.tistory.com/382)
 
 </div>
 </div>
