@@ -2,7 +2,7 @@ import feedparser
 import time
 URL="https://dev-wnstjd.tistory.com/rss" # URL = "내블로그 주소/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
+MAX_POST = 4
 
 # 기본적으로 바뀌지 않을 Markdown text 입력
 markdown_text = """

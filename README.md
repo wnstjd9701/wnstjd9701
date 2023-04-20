@@ -24,7 +24,6 @@
  - [[2023/4/19] - [백준] [Python] [Gold3] 1520번_내리막 길](https://dev-wnstjd.tistory.com/392)
  - [[2023/4/19] - [백준] [Python] [Silver1] 1991번_트리 순회](https://dev-wnstjd.tistory.com/390)
  - [[2023/4/18] - [Java] 라이브러리 / 모듈](https://dev-wnstjd.tistory.com/389)
- - [[2023/4/18] - [백준] [Python] [Silver3] 15654번_N과M(5)](https://dev-wnstjd.tistory.com/388)
 
 </div>
 </div>
