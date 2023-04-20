@@ -33,7 +33,8 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']})\n"
+        print(feed_date)
+        markdown_text += f" - [[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday}] - {feed['title']}]({feed['link']})\n"
 markdown_text +=  """
 </div>
 </div>
