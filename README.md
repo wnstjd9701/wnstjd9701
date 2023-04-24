@@ -19,11 +19,11 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
+ - [[2023/4/23] - [백준] [Python] [Silver3] 11478번_서로 다른 부분 문자열의 개수](https://dev-wnstjd.tistory.com/400)
  - [[2023/4/22] - [백준] [Python] [Silver3] 2512번_예산](https://dev-wnstjd.tistory.com/399)
  - [[2023/4/21] - [백준] [Python] [Gold5] 1107번_리모컨](https://dev-wnstjd.tistory.com/398)
  - [[2023/4/21] - [백준] [Python] [Gold5] 9251번_LCS](https://dev-wnstjd.tistory.com/397)
  - [[2023/4/21] - [백준] [Python] [Gold5] 1011번_Fly me to the Alpha Centauri](https://dev-wnstjd.tistory.com/396)
- - [[2023/4/21] - [백준] [Python] [Gold5] 2447번_별 찍기 - 10](https://dev-wnstjd.tistory.com/395)
 
 </div>
 </div>
