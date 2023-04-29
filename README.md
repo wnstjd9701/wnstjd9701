@@ -19,11 +19,11 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
+ - [[2023/4/28] - [백준] [Python] [Gold5] 2565번_전깃줄](https://dev-wnstjd.tistory.com/409)
+ - [[2023/4/28] - [백준] [Python] [Gold3] 2638번_치즈](https://dev-wnstjd.tistory.com/408)
  - [[2023/4/27] - [백준] [Python] [Gold5] 2225번_합 분해](https://dev-wnstjd.tistory.com/407)
  - [[2023/4/27] - [백준] [Python] [Gold5] 1916번_최소비용 구하기](https://dev-wnstjd.tistory.com/406)
  - [[2023/4/26] - [백준] [Python] [Gold5] 5582번_공통 부분 문자열](https://dev-wnstjd.tistory.com/405)
- - [[2023/4/25] - [Java] [클래스] 자바 클래스](https://dev-wnstjd.tistory.com/404)
- - [[2023/4/25] - [Java] [예외 처리]Checked Exception VS Unchecked Exception](https://dev-wnstjd.tistory.com/403)
 
 </div>
 </div>
