@@ -19,11 +19,11 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
+ - [[2023/5/8] - [백준] [Python] [Gold4] 14500번_테트로미노](https://dev-wnstjd.tistory.com/417)
  - [[2023/5/5] - [백준] [Python] [Silver2] 1535번_안녕](https://dev-wnstjd.tistory.com/416)
  - [[2023/5/4] - [백준] [Python] [Gold3] 2252번_줄 세우기](https://dev-wnstjd.tistory.com/415)
  - [[2023/5/3] - [백준] [Python] [Gold5] 2096번_내려가기](https://dev-wnstjd.tistory.com/414)
  - [[2023/5/2] - [백준] [Python] [Silver1] 11057번_오르막 수](https://dev-wnstjd.tistory.com/413)
- - [[2023/5/1] - [백준] [Python] [Gold5] 17070번_파이프 옮기기 1](https://dev-wnstjd.tistory.com/412)
 
 </div>
 </div>
