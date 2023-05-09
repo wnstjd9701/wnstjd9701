@@ -30,7 +30,6 @@ markdown_text = """
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <h4>
 </div>
-<br>
 
 <div class='blog' align='center'>
 <h2 class='post' align='left'> ✅ Posting<h2>
