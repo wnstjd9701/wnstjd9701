@@ -35,7 +35,8 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         feed_num = feed['links']
         feed_number = feed_num[0]['href'].split('/')[-1] # feed number
         feed_date = feed['published_parsed']
-        markdown_text += f" - [[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday}] - {feed['title']}]({feed['link']})\n"
+        # markdown_text += f" - [[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday}] - {feed['title']}]({feed['link']})\n"
+        markdown_text += f"[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId={feed_number}&theme=santorini)](https://dev-wnstjd.tistory.com/{feed_number})"
 markdown_text +=  """
 </div>
 </div>

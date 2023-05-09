@@ -1,3 +1,4 @@
+
 <div class='blog' align='left'>
   <h2> 📖 BLOG 📖 </h2>
 
@@ -18,11 +19,6 @@
 <hr>
 
 ## ✅ Latest Tistory Posting<div class=blog-post text-align='left'>
- - [[2023/5/9] - [백준] [Python] [Gold3] 1238번_파티](https://dev-wnstjd.tistory.com/419)
- - [[2023/5/9] - [백준] [Python] [Gold4] 11054번_가장 긴 바이토닉 부분 수열](https://dev-wnstjd.tistory.com/418)
- - [[2023/5/8] - [백준] [Python] [Gold4] 14500번_테트로미노](https://dev-wnstjd.tistory.com/417)
-
-  </div>
-<div>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=a&postId=9)](https://dev-wnstjd.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=419&theme=santorini)](https://dev-wnstjd.tistory.com/419)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=418&theme=santorini)](https://dev-wnstjd.tistory.com/418)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=417&theme=santorini)](https://dev-wnstjd.tistory.com/417)
+</div>
+</div>
