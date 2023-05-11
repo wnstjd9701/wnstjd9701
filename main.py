@@ -37,11 +37,8 @@ markdown_text = """<div class='tech-stack' align='left'>
 </div>
 <br>
 
-<div class='blog' align='center'>
+<div class='blog' align='left'>
 <h2 class='post' align='left'> ✅ Posting<h2>
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=준성`s블로그&theme=kakao)](https://dev-wnstjd.tistory.com)
-<br>
 
 """
 
