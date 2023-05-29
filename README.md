@@ -33,6 +33,6 @@
 <div class='blog' align='left'>
 <h2 class='post' align='left'> ✅ Posting<h2>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=431&theme=santorini)](https://dev-wnstjd.tistory.com/431)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=430&theme=santorini)](https://dev-wnstjd.tistory.com/430)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=433&theme=santorini)](https://dev-wnstjd.tistory.com/433)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=432&theme=santorini)](https://dev-wnstjd.tistory.com/432)
 </div>
 </div>
