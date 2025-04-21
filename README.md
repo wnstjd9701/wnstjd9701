@@ -28,11 +28,4 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">&nbsp
   </h4>
 </div>
-<br>
 
-<div class='blog' align='left'>
-<h2 class='post' align='left'> ✅ Posting<h2>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=527&theme=santorini)](https://dev-wnstjd.tistory.com/527)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-wnstjd.tistory.com&postId=526&theme=santorini)](https://dev-wnstjd.tistory.com/526)
-</div>
-</div>
